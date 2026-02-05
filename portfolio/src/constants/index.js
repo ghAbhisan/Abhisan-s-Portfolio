@@ -409,24 +409,6 @@ const ABOUT_LOCATION = {
       imageUrl: "/images/adrian.jpg",
     },
     {
-      id: 2,
-      name: "casual-me.png",
-      icon: "/images/image.png",
-      kind: "file",
-      fileType: "img",
-      position: "top-28 right-72",
-      imageUrl: "/images/adrian-2.jpg",
-    },
-    {
-      id: 3,
-      name: "conference-me.png",
-      icon: "/images/image.png",
-      kind: "file",
-      fileType: "img",
-      position: "top-52 left-80",
-      imageUrl: "/images/adrian-3.jpeg",
-    },
-    {
       id: 4,
       name: "about-me.txt",
       icon: "/images/txt.png",
@@ -434,12 +416,13 @@ const ABOUT_LOCATION = {
       fileType: "txt",
       position: "top-60 left-5",
       subtitle: "Meet the Developer Behind the Code",
-      image: "/images/adrian.jpg",
+      image: "/images/abhisan.jpg",
       description: [
-        "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
-        "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
-        "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
-        "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
+  "Hey! I’m Abhisan 👋, a web developer who enjoys building clean, modern, and interactive websites that actually feel good to use.",
+  "I work mainly with JavaScript, React, and modern frontend tools—and I love adding smooth animations using Tailwind CSS, GSAP, and Framer Motion.",
+  "I care a lot about clean UI, meaningful UX, and writing code that’s readable, maintainable, and doesn’t turn into a debugging nightmare.",
+  "When I’m not coding, you’ll probably find me polishing UI details late at night, experimenting with animations, or learning new tools to level up my skills 😅"
+
       ],
     },
   ],
